@@ -36,11 +36,11 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/minishell.git
+   git clone https://github.com/Degef/Minishell.git
 
 2. Make
    ```sh
-    cd minishell
+    cd Minishell
     make
 
 ### Usage  
