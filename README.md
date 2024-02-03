@@ -81,5 +81,5 @@ Minishell handles signals gracefully, including the following:
 
 Feel free to explore these signals while using Minishell.
 ## Contributors 
-This project was done by me (Degef) and Merhawi as part of our curriculum at 42 Abu Dhabi. 
+This project was done by Degef and Merhawi as part of our curriculum at 42 Abu Dhabi. 
 ... 
