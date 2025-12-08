@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Degef/Minishell.git
+   git clone https://github.com/merhawi212/Minishell.git
 
 2. Make
    ```sh
@@ -61,7 +61,7 @@ Minishell supports several built-in commands:
   
 ### External Commands
 
-You can also execute external commands by entering their names and argument if needed at the shell prompt.
+You can also run external commands by entering their names and arguments at the shell prompt.
 
 ### Pipes and Redirection
 
@@ -79,7 +79,7 @@ Minishell handles signals gracefully, including the following:
 - Ctrl+D (EOF): Signals the end of input.
 - Ctrl+\ (SIGQUIT): Triggers a core dump and can be used to exit the shell with a core dump.
 
-Feel free to explore these signals while using Minishell.
+You can explore these signals while using Minishell.
 ## Contributors 
 This project was done by Degef and Merhawi as part of our curriculum at 42 Abu Dhabi. 
 ... 
